@@ -27,15 +27,15 @@ Work in progress
 Item_AdeliePenguin_Owned ||| 
 Item_AleKegs_Owned ||| 
 Item_BoltActionRifle_Owned ||| 
-Item_Chessboard_Owned ||| 
+Item_Chessboard_Owned | Chessboard || 
 Item_Coal_Owned ||| 
 Item_CrabeaterSeal_Owned ||| 
-Item_ElephantSeal_Owned ||| 
+Item_ElephantSeal_Owned | Elephant Seal || 
 Item_EmperorPenguin_Owned ||| 
-Item_Fish_Owned ||| 
-Item_Flags_Owned ||| 
+Item_Fish_Owned | Fish || 
+Item_Flags_Owned | Temperance Flags || 
 Item_Flare_Owned | Flare || 
-Item_Football_Owned ||| 
+Item_Football_Owned | Football || 
 Item_HuntingShotgun_Owned ||| 
 Item_LeopardSeal_Owned | Leopard Seal || 
 Item_MedComforts_Owned | Medical Comforts || 
