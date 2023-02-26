@@ -16,7 +16,7 @@ You have been warned!
 
 Another paragraph warning you!
 
-Ok, go on.
+Ok, go on, Captain.
 
 ## Item list
 
@@ -37,15 +37,15 @@ Item_Flags_Owned |||
 Item_Flare_Owned ||| 
 Item_Football_Owned ||| 
 Item_HuntingShotgun_Owned ||| 
-Item_LeopardSeal_Owned ||| 
+Item_LeopardSeal_Owned | Leopard Seal || 
 Item_MedComforts_Owned ||| 
-Item_Research_Owned ||| 
+Item_Research_Owned | Research || 
 Item_Revolver_Owned ||| 
 Item_Timber_Owned ||| 
 Item_TinnedFood_Owned ||| 
-Item_TinnedFoodRusty_Owned ||| 
+Item_TinnedFoodRusty_Owned | Crate of spoiled Rations || 
 Item_ToolsEngineering_Owned ||| 
-Item_ToolsDigging_Owned ||| 
+Item_ToolsDigging_Owned | Digging Tools || 
 Item_ToolsMedical_Owned ||| 
 
 ## Raw dumps
