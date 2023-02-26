@@ -6,6 +6,8 @@ Save file item list for the video game The Pale Beyond by Bellular Studios
 * Launch trailer: https://www.youtube.com/watch?v=PvvkUPPJc_E
 * Website: https://bellular.games/
 
+Inspired by this thread: https://fearlessrevolution.com/viewtopic.php?f=2&t=23661
+
 ## Item list
 
 WIP
