@@ -10,7 +10,7 @@ Inspired by this thread: https://fearlessrevolution.com/viewtopic.php?f=2&t=2366
 
 ## Item list
 
-| Save file name | Ingame name | Description & Use | Icon |
+| Save file key | Ingame name | Description & Use | Icon |
 | --- | --- | --- | --- |
 Item_Chessboard_Owned ||| 
 Item_ToolsEngineering_Owned ||| 
@@ -18,6 +18,14 @@ Item_ToolsDigging_Owned |||
 Item_ToolsMedical_Owned ||| 
 Item_Revolver_Owned ||| 
 Item_HuntingShotgun_Owned ||| 
+Item_Flags_Owned ||| 
+Item_Football_Owned ||| 
+Item_LeopardSeal_Owned ||| 
+Item_TinnedFoodRusty_Owned ||| 
+Item_EmperorPenguin_Owned ||| 
+Item_AdeliePenguin_Owned ||| 
+Item_CrabeaterSeal_Owned ||| 
+Item_Research_Owned ||| 
 
 ## Raw dumps
 
