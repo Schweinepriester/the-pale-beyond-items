@@ -10,7 +10,14 @@ Inspired by this thread: https://fearlessrevolution.com/viewtopic.php?f=2&t=2366
 
 ## Item list
 
-WIP
+| Save file name | Ingame name | Description & Use | Icon |
+| --- | --- | --- | --- |
+Item_Chessboard_Owned ||| 
+Item_ToolsEngineering_Owned ||| 
+Item_ToolsDigging_Owned ||| 
+Item_ToolsMedical_Owned ||| 
+Item_Revolver_Owned ||| 
+Item_HuntingShotgun_Owned ||| 
 
 ## Raw dumps
 
