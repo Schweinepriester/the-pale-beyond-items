@@ -42,6 +42,7 @@ Item_MedComforts_Owned |||
 Item_Research_Owned ||| 
 Item_Revolver_Owned ||| 
 Item_Timber_Owned ||| 
+Item_TinnedFood_Owned ||| 
 Item_TinnedFoodRusty_Owned ||| 
 Item_ToolsEngineering_Owned ||| 
 Item_ToolsDigging_Owned ||| 
