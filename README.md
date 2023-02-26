@@ -20,20 +20,28 @@ Ok, go on.
 
 ## Item list
 
+Work in progress
+
 | Save file key | Ingame name | Description & Use | Icon |
 | --- | --- | --- | --- |
 Item_AdeliePenguin_Owned ||| 
+Item_AleKegs_Owned ||| 
+Item_BoltActionRifle_Owned ||| 
 Item_Chessboard_Owned ||| 
+Item_Coal_Owned ||| 
 Item_CrabeaterSeal_Owned ||| 
+Item_ElephantSeal_Owned ||| 
 Item_EmperorPenguin_Owned ||| 
 Item_Fish_Owned ||| 
 Item_Flags_Owned ||| 
+Item_Flare_Owned ||| 
 Item_Football_Owned ||| 
 Item_HuntingShotgun_Owned ||| 
 Item_LeopardSeal_Owned ||| 
 Item_MedComforts_Owned ||| 
 Item_Research_Owned ||| 
 Item_Revolver_Owned ||| 
+Item_Timber_Owned ||| 
 Item_TinnedFoodRusty_Owned ||| 
 Item_ToolsEngineering_Owned ||| 
 Item_ToolsDigging_Owned ||| 
