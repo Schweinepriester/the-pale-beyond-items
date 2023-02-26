@@ -26,10 +26,12 @@ Item_AdeliePenguin_Owned |||
 Item_Chessboard_Owned ||| 
 Item_CrabeaterSeal_Owned ||| 
 Item_EmperorPenguin_Owned ||| 
+Item_Fish_Owned ||| 
 Item_Flags_Owned ||| 
 Item_Football_Owned ||| 
 Item_HuntingShotgun_Owned ||| 
 Item_LeopardSeal_Owned ||| 
+Item_MedComforts_Owned ||| 
 Item_Research_Owned ||| 
 Item_Revolver_Owned ||| 
 Item_TinnedFoodRusty_Owned ||| 
