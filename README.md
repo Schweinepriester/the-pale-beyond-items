@@ -24,14 +24,14 @@ Work in progress
 
 | Save file key | Ingame name | Use | Icon | Description
 | --- | --- | --- | --- | --- |
-Item_AdeliePenguin_Owned |||| 
+Item_AdeliePenguin_Owned | Adelie Penguin ||| 
 Item_AleKegs_Owned |||| 
 Item_BoltActionRifle_Owned ||||
 Item_Chessboard_Owned | Chessboard ||| 
 Item_Coal_Owned |||| 
-Item_CrabeaterSeal_Owned |||| 
+Item_CrabeaterSeal_Owned | Crabeater Seal ||| 
 Item_ElephantSeal_Owned | Elephant Seal ||| 
-Item_EmperorPenguin_Owned |||| 
+Item_EmperorPenguin_Owned | Emperor Penguin ||| 
 Item_Fish_Owned | Fish ||| 
 Item_Flags_Owned | Temperance Flags ||| 
 Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || Bright light and heat without an explosion. For alerting humans and alarming wildlife. Can be carefully disassembled for fuel.
@@ -43,8 +43,8 @@ Item_Research_Owned | Research |||
 Item_Revolver_Owned |||| 
 Item_Timber_Owned |||| 
 Item_TinnedFood_Owned |||| 
-Item_TinnedFoodRusty_Owned | Crate of spoiled Rations ||| 
-Item_ToolsEngineering_Owned |||| 
+Item_TinnedFoodRusty_Owned | Crate of spoiled rations ||| 
+Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Decorum|| With these tools the furnance may be better maintained, improving its efficiency.
 Item_ToolsDigging_Owned | Digging Tools ||| 
 Item_ToolsMedical_Owned | Medical Tools ||| 
 
