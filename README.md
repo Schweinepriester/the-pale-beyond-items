@@ -24,6 +24,8 @@ Ok, go on, Captain.
 
 ## Item list
 
+*Best viewed in [full width](./README.md)*
+
 Work in progress
 
 | Save file key | Ingame name | Use | Icon | Description
@@ -31,7 +33,7 @@ Work in progress
 Item_AdeliePenguin_Owned | Adelie Penguin ||| 
 Item_AleKegs_Owned |||| 
 Item_BoltActionRifle_Owned ||||
-Item_CaptainsHat_Owned ||||
+Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
 Item_Chessboard_Owned | Chessboard ||| 
 Item_Coal_Owned | Sack of coal | Furnace: +20<br>Hoosh: +0 || From the Temperance coal bunker. A piece of home to feed the furnace.
 Item_CrabeaterSeal_Owned | Crabeater Seal ||| 
