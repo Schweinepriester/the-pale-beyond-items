@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1266030/capsule_616x353.jpg">
+</p>
+
 # The Pale Beyond item list
 
 Save file item list for the video game The Pale Beyond by Bellular Studios
