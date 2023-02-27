@@ -22,31 +22,31 @@ Ok, go on, Captain.
 
 Work in progress
 
-| Save file key | Ingame name | Description & Use | Icon |
-| --- | --- | --- | --- |
-Item_AdeliePenguin_Owned ||| 
-Item_AleKegs_Owned ||| 
-Item_BoltActionRifle_Owned ||| 
-Item_Chessboard_Owned | Chessboard || 
-Item_Coal_Owned ||| 
-Item_CrabeaterSeal_Owned ||| 
-Item_ElephantSeal_Owned | Elephant Seal || 
-Item_EmperorPenguin_Owned ||| 
-Item_Fish_Owned | Fish || 
-Item_Flags_Owned | Temperance Flags || 
-Item_Flare_Owned | Flare || 
-Item_Football_Owned | Football || 
-Item_HuntingShotgun_Owned ||| 
-Item_LeopardSeal_Owned | Leopard Seal || 
-Item_MedComforts_Owned | Medical Comforts || 
-Item_Research_Owned | Research || 
-Item_Revolver_Owned ||| 
-Item_Timber_Owned ||| 
-Item_TinnedFood_Owned ||| 
-Item_TinnedFoodRusty_Owned | Crate of spoiled Rations || 
-Item_ToolsEngineering_Owned ||| 
-Item_ToolsDigging_Owned | Digging Tools || 
-Item_ToolsMedical_Owned | Medical Tools || 
+| Save file key | Ingame name | Use | Icon | Description
+| --- | --- | --- | --- | --- |
+Item_AdeliePenguin_Owned |||| 
+Item_AleKegs_Owned |||| 
+Item_BoltActionRifle_Owned ||||
+Item_Chessboard_Owned | Chessboard ||| 
+Item_Coal_Owned |||| 
+Item_CrabeaterSeal_Owned |||| 
+Item_ElephantSeal_Owned | Elephant Seal ||| 
+Item_EmperorPenguin_Owned |||| 
+Item_Fish_Owned | Fish ||| 
+Item_Flags_Owned | Temperance Flags ||| 
+Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || 
+Item_Football_Owned | Football ||| 
+Item_HuntingShotgun_Owned |||| 
+Item_LeopardSeal_Owned | Leopard Seal ||| 
+Item_MedComforts_Owned | Medical Comforts ||| 
+Item_Research_Owned | Research ||| 
+Item_Revolver_Owned |||| 
+Item_Timber_Owned |||| 
+Item_TinnedFood_Owned |||| 
+Item_TinnedFoodRusty_Owned | Crate of spoiled Rations ||| 
+Item_ToolsEngineering_Owned |||| 
+Item_ToolsDigging_Owned | Digging Tools ||| 
+Item_ToolsMedical_Owned | Medical Tools ||| 
 
 ## Raw dumps
 
