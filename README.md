@@ -33,7 +33,7 @@ Item_CrabeaterSeal_Owned | Crabeater Seal |||
 Item_ElephantSeal_Owned | Elephant Seal ||| 
 Item_EmperorPenguin_Owned | Emperor Penguin ||| 
 Item_Fish_Owned | Fish ||| 
-Item_Flags_Owned | Temperance Flags ||| 
+Item_Flags_Owned | Temperance Flags | Camp Upgrade<br>+10 Maximum Decorum || Rescued from the Temperance, to fly proudly at the edge of the world.
 Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || Bright light and heat without an explosion. For alerting humans and alarming wildlife. Can be carefully disassembled for fuel.
 Item_Football_Owned | Football ||| 
 Item_HuntingShotgun_Owned |||| 
