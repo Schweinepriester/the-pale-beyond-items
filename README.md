@@ -41,7 +41,7 @@ Item_LeopardSeal_Owned | Leopard Seal |||
 Item_MedComforts_Owned | Medical Comforts ||| 
 Item_Research_Owned | Research ||| 
 Item_Revolver_Owned |||| 
-Item_Timber_Owned |||| 
+Item_Timber_Owned | Timber | Furnace: +17<br>Hoosh: +0 || Wood, stripped from the temperance. Can be burned for fuel.
 Item_TinnedFood_Owned |||| 
 Item_TinnedFoodRusty_Owned | Crate of spoiled rations ||| 
 Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fuel || With these tools the furnance may be better maintained, improving its efficiency.
