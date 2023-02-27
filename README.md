@@ -44,9 +44,9 @@ Item_Revolver_Owned ||||
 Item_Timber_Owned |||| 
 Item_TinnedFood_Owned |||| 
 Item_TinnedFoodRusty_Owned | Crate of spoiled rations ||| 
-Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Decorum|| With these tools the furnance may be better maintained, improving its efficiency.
-Item_ToolsDigging_Owned | Digging Tools ||| 
-Item_ToolsMedical_Owned | Medical Tools ||| 
+Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fuel || With these tools the furnance may be better maintained, improving its efficiency.
+Item_ToolsDigging_Owned | Digging Tools | Camp Upgrade || 
+Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade || 
 
 ## Raw dumps
 
