@@ -32,7 +32,7 @@ Item_AdeliePenguin_Owned | Adelie Penguin |||
 Item_AleKegs_Owned |||| 
 Item_BoltActionRifle_Owned ||||
 Item_Chessboard_Owned | Chessboard ||| 
-Item_Coal_Owned |||| 
+Item_Coal_Owned | Sack of coal | Furnace: +20<br>Hoosh: +0 || From the Temperance coal bunker. A piece of home to feed the furnace.
 Item_CrabeaterSeal_Owned | Crabeater Seal ||| 
 Item_ElephantSeal_Owned | Elephant Seal ||| 
 Item_EmperorPenguin_Owned | Emperor Penguin ||| 
