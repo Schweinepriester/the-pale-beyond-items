@@ -34,7 +34,7 @@ Item_ElephantSeal_Owned | Elephant Seal |||
 Item_EmperorPenguin_Owned |||| 
 Item_Fish_Owned | Fish ||| 
 Item_Flags_Owned | Temperance Flags ||| 
-Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || 
+Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || Bright light and heat without an explosion. For alerting humans and alarming wildlife. Can be carefully disassembled for fuel.
 Item_Football_Owned | Football ||| 
 Item_HuntingShotgun_Owned |||| 
 Item_LeopardSeal_Owned | Leopard Seal ||| 
