@@ -32,6 +32,7 @@ Work in progress
 | --- | --- | --- | --- | --- |
 Item_AdeliePenguin_Owned | Adelie Penguin ||| 
 Item_AleKegs_Owned |||| 
+Item_AppertonCrates_Owned |||| 
 Item_BoltActionRifle_Owned ||||
 Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
 Item_Chessboard_Owned | Chessboard ||| 
