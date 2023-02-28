@@ -51,6 +51,7 @@ Item_Revolver_Owned ||||
 Item_Timber_Owned | Timber | Furnace: +17<br>Hoosh: +0 || Wood, stripped from the temperance. Can be burned for fuel.
 Item_TinnedFood_Owned | Crate of tinned food | Furnace: +3<br>Hoosh: +20 || Sealed sustenance. Prepared by the Appertton tinning company.
 Item_TinnedFoodRusty_Owned | Crate of spoiled rations ||| 
+Item_TinnedLemons_Owned |||| 
 Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fuel || With these tools the furnance may be better maintained, improving its efficiency.
 Item_ToolsDigging_Owned | Digging Tools | Camp Upgrade || 
 Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade || 
