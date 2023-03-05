@@ -55,7 +55,7 @@ Item_TinnedFoodRusty_Owned | Crate of spoiled rations |||
 Item_TinnedLemons_Owned |||| 
 Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fuel || With these tools the furnance may be better maintained, improving its efficiency.
 Item_ToolsDigging_Owned | Digging Tools | Camp Upgrade || 
-Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade || 
+Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade<br>+1 Maximum Doctor's slot || The doctor should be able to see more than once patient at a time with these.
 
 ## Raw dumps
 
