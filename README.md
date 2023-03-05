@@ -33,7 +33,7 @@ Work in progress
 Item_AdeliePenguin_Owned | Adelie Penguin ||| 
 Item_AleKegs_Owned | Ale Kegs | Furnace: +10<br>Hoosh: Cures 1x Demoralisation || Aged ale, ready to warm bellies and rouse the spirits.
 Item_AppertonCrates_Owned | Appertton Crates | Camp Upgrade<br>+20 Maximum Hoosh || Appertton Crates, treated and sealed to keep shipments of peaches fresh.
-Item_BoltActionRifle_Owned ||||
+Item_BoltActionRifle_Owned | Bolt Action Rifle | Camp Upgrade<br>+1 Large animal killed at each hunting location. || Bolt action rifle
 Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
 Item_Chessboard_Owned | Chessboard ||| 
 Item_Coal_Owned | Sack of coal | Furnace: +20<br>Hoosh: +0 || From the Temperance coal bunker. A piece of home to feed the furnace.
@@ -56,6 +56,8 @@ Item_TinnedLemons_Owned ||||
 Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fuel || With these tools the furnance may be better maintained, improving its efficiency.
 Item_ToolsDigging_Owned | Digging Tools | Camp Upgrade || 
 Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade<br>+1 Maximum Doctor's slot || The doctor should be able to see more than once patient at a time with these.
+
+Note: As of 2023-03-05/[Patch 1.2.3.0]([url](https://steamcommunity.com/games/1266030/announcements/detail/3663153293028739929)) some of the descriptions have small errors in them. I decided to note them as they are in the game.
 
 ## Raw dumps
 
