@@ -32,7 +32,7 @@ Work in progress
 | --- | --- | --- | --- | --- |
 Item_AdeliePenguin_Owned | Adelie Penguin ||| 
 Item_AleKegs_Owned | Ale Kegs | Furnace: +10<br>Hoosh: Cures 1x Demoralisation || Aged ale, ready to warm bellies and rouse the spirits.
-Item_AppertonCrates_Owned |||| 
+Item_AppertonCrates_Owned | Appertton Crates | Camp Upgrade<br>+20 Maximum Hoosh || Appertton Crates, treated and sealed to keep shipments of peaches fresh.
 Item_BoltActionRifle_Owned ||||
 Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
 Item_Chessboard_Owned | Chessboard ||| 
