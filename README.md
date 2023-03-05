@@ -35,7 +35,7 @@ Item_AleKegs_Owned | Ale Kegs | Furnace: +10<br>Hoosh: Cures 1x Demoralisation |
 Item_AppertonCrates_Owned | Appertton Crates | Camp Upgrade<br>+20 Maximum Hoosh || Appertton Crates, treated and sealed to keep shipments of peaches fresh.
 Item_BoltActionRifle_Owned | Bolt Action Rifle | Camp Upgrade<br>+1 Large animal killed at each hunting location. || Bolt action rifle
 Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
-Item_Chessboard_Owned | Chessboard ||| 
+Item_Chessboard_Owned | Chessboard | (Camp Upgrade)<br>+5 Maximum Decorum || A game board with handcarved pieces for passing time during the slower days.
 Item_Coal_Owned | Sack of coal | Furnace: +20<br>Hoosh: +0 || From the Temperance coal bunker. A piece of home to feed the furnace.
 Item_CrabeaterSeal_Owned | Crabeater Seal ||| 
 Item_ElephantSeal_Owned | Elephant Seal ||| 
