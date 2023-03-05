@@ -45,7 +45,7 @@ Item_Flags_Owned | Temperance Flags | Camp Upgrade<br>+10 Maximum Decorum || Res
 Item_Flare_Owned | Flare | Furnace: +30<br>Hoosh: +0 || Bright light and heat without an explosion. For alerting humans and alarming wildlife. Can be carefully disassembled for fuel.
 Item_Football_Owned | Football | Camp Upgrade<br>+5 Maximum Decorum || A simple leather ball. Healthy competition keeps the crew relaxed.
 Item_HuntingShotgun_Owned | Hunting Shotgun | Camp Upgrade<br>+1 medium sized animal killed at each hunting location. || An old fashioned, double-barrelled buckshot rifle. Slow and cumbersome to load.
-Item_LeopardSeal_Owned | Leopard Seal ||| 
+Item_LeopardSeal_Owned | Leopard Seal | Furnace: +12<br>Hoosh: +24; Cures 1x Demoralisation || This fearsome predator attacked your crew; eating it now has a sense of justice. A great source of blubber. Large Game.
 Item_MedComforts_Owned | Medical Comforts ||| 
 Item_Research_Owned | Research ||| 
 Item_Revolver_Owned | Revolver | Camp Upgrade<br>+1 small animal killed at each hunting location. || A fine steel sidearm. Six shots, fires rapidly.
