@@ -31,7 +31,7 @@ Work in progress
 | Save file key | Ingame name | Use | Icon | Description
 | --- | --- | --- | --- | --- |
 Item_AdeliePenguin_Owned | Adelie Penguin ||| 
-Item_AleKegs_Owned |||| 
+Item_AleKegs_Owned | Ale Kegs | Furnace: +10<br>Hoosh: Cures 1x Demoralisation || Aged ale, ready to warm bellies and rouse the spirits.
 Item_AppertonCrates_Owned |||| 
 Item_BoltActionRifle_Owned ||||
 Item_CaptainsHat_Owned | Captain's hat | Story item || Captain Hunt's old maritime hat. His name is sewn inside, though you never saw him wear it.
