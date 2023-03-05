@@ -48,7 +48,7 @@ Item_HuntingShotgun_Owned ||||
 Item_LeopardSeal_Owned | Leopard Seal ||| 
 Item_MedComforts_Owned | Medical Comforts ||| 
 Item_Research_Owned | Research ||| 
-Item_Revolver_Owned |||| 
+Item_Revolver_Owned | Revolver | Camp Upgrade<br>+1 small animal killed at each hunting location. || A fine steel sidearm. Six shots, fires rapidly.
 Item_Timber_Owned | Timber | Furnace: +17<br>Hoosh: +0 || Wood, stripped from the temperance. Can be burned for fuel.
 Item_TinnedFood_Owned | Crate of tinned food | Furnace: +3<br>Hoosh: +20 || Sealed sustenance. Prepared by the Appertton tinning company.
 Item_TinnedFoodRusty_Owned | Crate of spoiled rations ||| 
