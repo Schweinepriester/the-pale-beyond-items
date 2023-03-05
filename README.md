@@ -57,7 +57,7 @@ Item_ToolsEngineering_Owned | Engineering Tools | Camp Upgrade<br>+20 Maximum Fu
 Item_ToolsDigging_Owned | Digging Tools | Camp Upgrade || 
 Item_ToolsMedical_Owned | Medical Tools | Camp Upgrade<br>+1 Maximum Doctor's slot || The doctor should be able to see more than once patient at a time with these.
 
-Note: As of 2023-03-05/[Patch 1.2.3.0]([url](https://steamcommunity.com/games/1266030/announcements/detail/3663153293028739929)) some of the descriptions have small errors in them. I decided to note them as they are in the game.
+Note: As of 2023-03-05/[Patch 1.2.3.0](https://steamcommunity.com/games/1266030/announcements/detail/3663153293028739929) some of the descriptions have small errors in them. I decided to note them as they are in the game.
 
 ## Raw dumps
 
